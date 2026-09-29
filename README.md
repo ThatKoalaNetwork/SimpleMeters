@@ -1,5 +1,17 @@
 # SimpleMeters
 
+> ## End of the road: 29 September 2026
+>
+> I will no longer be working on SimpleMeters.
+>
+> My focus for World of Warcraft is now fully on **World of Warcraft Forever**, which includes its own simple built-in games meter.
+>
+> SimpleMeters still works for Vanilla Classic and the other versions listed below, but this is the end of the road for me and there will be no further updates.
+>
+> Thank you to everyone who used it. See you all in WoW Forever.
+>
+> Paul
+
 SimpleMeters is a lightweight, stock-style damage meter for WoW Classic Era, Season of Discovery, and TBC Classic.
 
 It is built to stay fast and readable during real dungeon and raid play: clean panel options, focused damage metrics, and low-overhead updates that do not get in the way of gameplay.
